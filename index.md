@@ -2,12 +2,12 @@
 layout: default
 title: Home
 ---
-<h1>Lim, Dogyoon</h1>
-<h2>Contact Information</h2>
-<p>Institute of Engineering Research, Seoul National University</p>
-<p>+82-2-880-4194</p>
-<p>limdogyoon@snu.ac.kr</p>
-<p>Building 39, Room 220, Gwanak-ro 1, Gwanak-gu, Seoul 08826, Republic of Korea</p>
+#Lim, Dogyoon
+Contact Information
+- Institute of Engineering Research, Seoul National University
+- +82-2-880-4194
+- limdogyoon@snu.ac.kr
+- Building 39, Room 220, Gwanak-ro 1, Gwanak-gu, Seoul 08826, Republic of Korea
 <h2>Legal Experience</h2>
 <p>Institute of Engineering Research, SNU, 2021-present</p>
 <p>Law Firm Sanwoo</p>
