@@ -2,7 +2,8 @@
 layout: default
 title: Home
 ---
-#Lim, Dogyoon
+
+# Lim, Dogyoon
 Contact Information
 - Institute of Engineering Research, Seoul National University
 - +82-2-880-4194
